@@ -1,4 +1,4 @@
-<T1>HOME EXERCISE ANSWER SCRIPT</T1>
+###HOME EXERCISE ANSWER SCRIPT
 
 This folder contains the original video, the video with the detection boxes and the script used for the detection.
 
